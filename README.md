@@ -1,2 +1,0 @@
-# space-trivia
-Trivia HW
